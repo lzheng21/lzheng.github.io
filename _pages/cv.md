@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2018: Pinterest Lab Research Intern
   * Pinterest Inc.
-  * Duties included: Tagging issues
+  * Accomplishments: We developed new Ads ranking models and five of them were shipped into production. The revenue, CTR and gCTR are lifted from 0.3% up to 4.3%.
   * Mentors: Dan Xie, Jure Leskovec
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://lzheng21.github.io/files/cv.pdf)
