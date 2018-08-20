@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Jilin University, 2006  <p align="right">
-  <img src="https://lzheng21.github.io/files/jilin.jpeg" alt="Photo" style="float:right;width:42px;height:42px;"/> 
+  <img src="https://lzheng21.github.io/files/jilin.jpeg" alt="Photo" style="float:right;width:4px;height:4px;"/> 
 </p>
 * M.S. in Harbin Institute of Technology, 2010
 * Ph.D Candidate in University of Illinois at Chicago, 2014
