@@ -13,3 +13,7 @@ redirect_from:
 
 * My research interests lie in data mining and recommender systems. I am mostly focused on developing deep learning models for recommender systems.
 
+# News
+* I started an internship at Pinterest Research Lab!
+* My paper titled as "Spectral Collaborative Filtering" was accepted by RecSys2018!
+
