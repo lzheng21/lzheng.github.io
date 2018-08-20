@@ -8,23 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Jilin University, 2006
+* M.S. in Harbin Institute of Technology, 2010
+* Ph.D Candidate in University of Illinois at Chicago, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Pinterest Lab Research Intern
+  * Pinterest Inc.
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Mentors: Dan Xie, Jure Leskovec
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://lzheng21.github.io/files/cv.pdf)
 
