@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Lei Zheng"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate at Univerisyt of Illinois at Chicago"
   location         : "IL, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XMirSfAAAAAJ&hl=en"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
