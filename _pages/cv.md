@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Jilin University, 2006
+* B.S. in Jilin University, 2006  <p align="center">
+  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 50px;"/> 
+</p>
 * M.S. in Harbin Institute of Technology, 2010
 * Ph.D Candidate in University of Illinois at Chicago, 2014
 
