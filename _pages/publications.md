@@ -7,7 +7,7 @@ author_profile: true
 <b>FI-GRL: Fast Inductive Graph Representation Learning via Projection-Cost Preservation</b> <br> Fei Jiang, <b>Lei Zheng</b>, Jin Xu, and Philip S. Yu. <i>In Proceedings of the the 2018 IEEE International
 Conference on Data Mining <b>(ICDM 2018)</b></i>.
 
-<b>Spectral Collaborative Filtering</b> <br> <b>Lei Zheng</b>, Chun-Ta Lu, Fei Jiang, Jiawei Zhang Philip S. Yu. <i>In
+<b>Spectral Collaborative Filtering</b> <br> <b>Lei Zheng</b>, Chun-Ta Lu, Fei Jiang, Jiawei Zhang, and Philip S. Yu. <i>In
 Proceedings of the 12th ACM Conference on Recommender Systems <b>(RecSys 2018)</b></i>.
 [[Code]](https://github.com/lzheng21/SpectralCF)
 
