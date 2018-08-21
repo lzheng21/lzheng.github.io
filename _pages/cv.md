@@ -40,6 +40,6 @@ Work experience
   * Project: Machine Translation
   * Details: In order to enhance the performance of machine translation engine, we developed a system based on hadoop to mine bilingual sentences from WikiPedia.
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lzheng21.github.io/files/cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lzheng21.github.io/files/cv1.pdf)
 
 <!-- <embed src="http://lzheng21.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
