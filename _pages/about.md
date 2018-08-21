@@ -16,4 +16,5 @@ redirect_from:
 # News
 * I started an internship at Pinterest Research Lab!
 * My paper titled as "Spectral Collaborative Filtering" was accepted by RecSys2018!
+* Two of our papers were accepted by ICDM2018 and CIKM2018!
 
