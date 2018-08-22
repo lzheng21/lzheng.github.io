@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  B.S. in Jilin University, 2006
-* <img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  M.S. in Harbin Institute of Technology, 2010
+* ![alt text](https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpg "jilin university")  B.S. in Jilin University, 2006
+* M.S. in Harbin Institute of Technology, 2010
 * Ph.D Candidate in University of Illinois at Chicago, 2014
 
 Work experience
