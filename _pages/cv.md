@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* ![alt text](https://zh.wikipedia.org/wiki/File:%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD.jpg "jilin university")  B.S. in Jilin University, 2006
+* B.S. in Jilin University, 2006
 * M.S. in Harbin Institute of Technology, 2010
 * Ph.D Candidate in University of Illinois at Chicago, 2014
 
