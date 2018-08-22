@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-<img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  B.S. in Jilin University, 2006
-<img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  M.S. in Harbin Institute of Technology, 2010
-<img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  Ph.D Candidate in University of Illinois at Chicago, 2014
+* <img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  B.S. in Jilin University, 2006
+* <img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  M.S. in Harbin Institute of Technology, 2010
+* <img src="https://github.com/lzheng21/lzheng21.github.io/blob/master/files/jilin.jpeg" width="30" height="30">  Ph.D Candidate in University of Illinois at Chicago, 2014
 
 Work experience
 ======
