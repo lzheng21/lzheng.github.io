@@ -21,7 +21,7 @@ Work experience
   * <b>Pinterest Inc</b>.
   * Project: User Profiling for Ads Ranking
   * Accomplishments: We developed new Ads ranking models and five of them were shipped into production. The revenue, CTR and gCTR are lifted from <b>0.3%</b> up to <b>4.3%</b>.
-  * Mentors: Dan Xie, Jure Leskovec
+  * Mentors: Dan Xie
   
 * August 2014 - Present: Research Assistant
   * <b>University of Illinois at Chicago</b>.
