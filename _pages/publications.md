@@ -11,7 +11,7 @@ Conference on Data Mining <b>(ICDM 2018)</b></i>.
 
 <b>Spectral Collaborative Filtering</b> <br> <b>Lei Zheng</b>, Chun-Ta Lu, Fei Jiang, Jiawei Zhang, and Philip S. Yu. <i>In
 Proceedings of the 12th ACM Conference on Recommender Systems <b>(RecSys 2018)</b></i>.
-[[Code]](https://github.com/lzheng21/SpectralCF)
+[[PDF]](https://arxiv.org/abs/1808.10523)[[Code]](https://github.com/lzheng21/SpectralCF)
 
 <b>Hierarchical collaborative
 embedding for context-aware recommendations</b> <br> <b>Lei Zheng</b>, Bokai Cao, Vahid Noroozi, Philip S. Yu and Nianzu Ma. <i>In Proceedings of 2017 IEEE International Conference
