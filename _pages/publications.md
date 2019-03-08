@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>PER: A Probabilistic Attentional Model for Personalized Text Recommendations</b> <br> <b>Lei Zheng</b>, Yixue Wang, Lifang He, Sihong Xie, Fengjiao Wang, Philip S. Yu. <i>In Proceedings of the 2018 IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
+
+<b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, <b>Lei Zheng</b>, Sihong Xie, Weixiang Shao, Philip S. Yu. <i>In Proceedings of the 2018 IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
 <b>Distribution Distance Minimization for Unsupervised User Identity Linkage</b> <br> Chaozhuo Li, Senzhang	Wang, Philip S. Yu, <b>Lei Zheng</b>, Xiaoming Zhang, Zhoujun	Li, Yanbo	Liang. <i>In Proceedings of the 27th ACM International Conference on Information and Knowledge Management <b>(CIKM 2018)</b></i>.
 
