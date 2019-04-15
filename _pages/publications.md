@@ -3,6 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation</b> <br> <b>Lei Zheng</b>, Chaozhuo Li, Chun-Ta Lu, Jiawei Zhang, Philip S. Yu. <i>In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b></i>.
+
+<b>Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation</b> <br> <b>Lei Zheng</b>, Ziwei Fan, Chun-Ta Lu, Jiawei Zhang, Philip S. Yu. <i>In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b></i>.
+
 <b>PER: A Probabilistic Attentional Model for Personalized Text Recommendations</b> <br> <b>Lei Zheng</b>, Yixue Wang, Lifang He, Sihong Xie, Fengjiao Wang, Philip S. Yu. <i>In Proceedings of the 2018 IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
 
 <b>Semi-supervised Deep Representation Learning for Multi-View Problems</b> <br> Vahid Noroozi, Sara Bahaadini, <b>Lei Zheng</b>, Sihong Xie, Weixiang Shao, Philip S. Yu. <i>In Proceedings of the 2018 IEEE International Conference on Big Data <b>(BigData 2018)</b></i>.
